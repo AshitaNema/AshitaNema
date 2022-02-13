@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshitaNema
-- 👀 I’m interested in Python, DevOps and MLOps.
+- 👀 I’m interested in Python, DevOps and JAVA.
 - 🌱 I’m currently learning Networking.
 - 💞️ I’m looking to collaborate on Open Source Technologies.
 - 📫 How to reach me http://www.linkedin.com/in/ashitanema
